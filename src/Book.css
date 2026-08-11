@@ -1,0 +1,22 @@
+body{
+    background:#e9d4e27e;
+    color:rgb(15, 14, 14);
+    font-family:Arial;
+}
+.container{
+    width:60%;
+    margin:auto;
+    text-align:center;
+}
+header{
+    background:red;
+    padding:15px;
+}
+table{
+    margin:20px auto;
+    border-collapse:collapse;
+}
+th,td{
+    border:1px solid rgb(16, 16, 16);
+    padding:10px 20px;
+}
